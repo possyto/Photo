@@ -46,9 +46,9 @@ nav a{
     text-decoration: none;
     font-size: 18px;
     color: black;
-    padding: 0 8px;
+    padding: 0 5px;
     transition: color .2s;  
-    
+    background-color: darkblue;
  
 }
 
@@ -104,6 +104,11 @@ img:hover{
         width: 100%;
         text-align: center;
         margin: auto;
+        padding: 5px;
+       
+    }
+    .topbar nav a{
+        padding: 5px;
     }
     .social{
         width: 100%;
@@ -123,8 +128,8 @@ img:hover{
     
 
 .topbar nav a {
-    padding: 5px;
-    
+    padding: 2px;
+    background-color: darkblue;
 }
 
 
