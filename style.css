@@ -109,7 +109,9 @@ img:hover{
     font-size: 22px;
 
 }
-
+.svgtop{
+    width: 100%;
+}
 @media screen and (max-width: 749px ){
     .topbar nav{
         width: 100%;
